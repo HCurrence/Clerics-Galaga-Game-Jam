@@ -1,2 +1,2 @@
-# Clerics-Galaga-Game-Jam
- Clerics Submission for the Galaga Redesign Game Jam
+# TechStackToolbashGalaga
+ Tech Stack Toolbash Demo for IGA Cohort 8
